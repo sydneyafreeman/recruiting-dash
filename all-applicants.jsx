@@ -11,4 +11,3 @@ const AllApplicants = () => {
 
 export default AllApplicants;
 
-git init <recruiting-dash>
